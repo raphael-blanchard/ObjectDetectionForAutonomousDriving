@@ -9,11 +9,15 @@ Here is an example when running a prediction on a single image, with on the left
 
 Now, when running a prediction on each frame of a video from a dashcam (fig 2.) and putting them together, we get a video (fig 1.) with labeled bounding boxes for each detected object, for each frame.
 
-Figure 1 - Predicted video
+Figure 1 - Predicted video:
+
+https://user-images.githubusercontent.com/86181145/205443761-2c5f266c-0d5d-4df0-8ada-969023fd81dc.mp4
 
 
+Figure 2 - Raw video from a dashcam:
 
-Figure 2 - Raw video from a dashcam
+https://user-images.githubusercontent.com/86181145/205443756-a8566274-8d99-4435-8af8-a27595538d97.mp4
+
 
 
 
